@@ -1,11 +1,11 @@
 # lottery_app
 
-Concepts
-Ternary Operations
-Stateless and Stateful Widgets conceps
-Random numbers
-Gesture Detector on tap
-lottery app functionality implementation like winning and losing conceps
+Concepts:
+Ternary Operations,
+Stateless and Stateful Widgets conceps,
+Random numbers,
+Gesture Detector on tap,
+lottery app functionality implementation like winning and losing conceps.
 
 ## Getting Started
 
